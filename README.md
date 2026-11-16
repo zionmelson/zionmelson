@@ -1,4 +1,8 @@
-## Hi there 👋
+## hello 👋
+
+my name is zion im from miami and i like to write hft code.
+
+**my work is _extremely_ light/incomplete and only highlights specific skills**
 
 <!--
 **zionmelson/zionmelson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
