@@ -2,7 +2,9 @@
 
 my name is zion im from miami and i like to write hft code.
 
-**my work is _extremely_ light/incomplete and only highlights specific skills**
+**my pinned work is _extremely_ light/incomplete and only highlights my specific skills**
+
+all other repos/forks may be complete AI junk read my repos at ur own risk 😵‍💫
 
 <!--
 **zionmelson/zionmelson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
