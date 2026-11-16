@@ -1,4 +1,4 @@
-## hello 👋
+# 👋
 
 ### my name is zion im from miami and i like to write hft code.
 
