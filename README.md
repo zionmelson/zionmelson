@@ -2,7 +2,7 @@
 
 ### my name is zion im from miami and i like to write hft code.
 
-**📌 pinned work is _extremely_ light/incomplete and only highlights my specific skills**
+**pinned work is _extremely_ light/incomplete -- purpose is to highlight specific skills**
 
 🚨 unpinned repos/forks may be contain AI generated junk code read at ur own risk 😵‍💫
 
