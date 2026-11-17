@@ -4,9 +4,9 @@
 
 **pinned work is _extremely_ light/incomplete -- purpose is to highlight specific skills**
 
-🚨 unpinned repos/forks may be contain AI generated junk code read at ur own risk 😵‍💫
-
 _( apologies anon, not open sourcing my personal arb code 🥲 )_
+
+🚨 unpinned repos/forks may be contain AI generated junk code read at ur own risk 😵‍💫
 
 <!--
 **zionmelson/zionmelson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
