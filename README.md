@@ -1,6 +1,6 @@
 # 👋
 
-### my name is zion im from miami and i like to write hft code.
+### im zion i write hft code
 
 **pinned work is _extremely_ light/incomplete -- purpose is to highlight specific skills**
 
