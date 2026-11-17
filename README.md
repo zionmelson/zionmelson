@@ -2,7 +2,7 @@
 
 writing hft code
 
-**pinned work is _extremely_ light/incomplete -- purpose is to highlight specific skills**
+**pinned work is _extremely_ light -- purpose is to highlight specific skills**
 
 _( apologies anon, not open sourcing my code )_
 
