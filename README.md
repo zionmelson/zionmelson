@@ -4,7 +4,7 @@
 
 **pinned work is _extremely_ light/incomplete -- purpose is to highlight specific skills**
 
-_( apologies anon, not open sourcing my personal arb code 🥲 )_
+_( apologies anon, not open sourcing my code 🥲 )_
 
 🚨 unpinned repos/forks may contain AI generated junk code read at ur own risk 😵‍💫
 
