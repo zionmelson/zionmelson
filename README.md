@@ -1,4 +1,4 @@
-# 🖼️ taker
+# taker 🖼️
 
 writing hft code
 
